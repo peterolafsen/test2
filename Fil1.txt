@@ -1,2 +1,3 @@
 Dette er fil1
 La til en endring
+Dette er enda en endring.
