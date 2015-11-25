@@ -1,5 +1,5 @@
 Dette er fil1
 La til en endring
 Dette er devel
-EEEnda en endring
-mere tekstS
+Enda en endring
+mere teksts
